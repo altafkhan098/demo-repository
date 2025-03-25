@@ -93,4 +93,4 @@ This website is a tribute to Dr. A.P.J Abdul Kalam. The content on this website 
 > "The best way to predict your future is to create it." – A.P.J Abdul Kalam  
 > Also, a great way to spend your time is to create websites that honor great people... like this one. 😉
   
-Remember, if you think you can’t create something amazing, just remember: **Dr. Kalam probably built rockets before breakfast**. 😄
+Remember, if you think you can’t create something amazing, just remember: **Dr. Kalam probably built rockets before breakfast**..
