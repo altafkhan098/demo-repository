@@ -66,6 +66,10 @@ For more information about the life and achievements of Dr. A.P.J Abdul Kalam, v
 
 ---
 
+## 📸 Screenshot
+![Netflix Clone Preview](./image/APJ-SS.jpeg) 
+
+---
 ## How to Clone 🚀
 
 ### 1. Clone the Repository:
