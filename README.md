@@ -73,7 +73,7 @@ For more information about the life and achievements of Dr. A.P.J Abdul Kalam, v
    - Run this command to clone the repository to your local machine:
      ```bash
      git clone https://github.com/altafkhan098/demo-repository.git
-    ```
+
 
 ### 2. Customize (Optional):
    - Feel free to modify the HTML, CSS, or JavaScript to add your own content or make changes!
